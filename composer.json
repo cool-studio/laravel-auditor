@@ -1,5 +1,5 @@
 {
-    "name": "coolstudio/auditor",
+    "name": "coolstudio/laravel-auditor",
     "description": "A model change tracking library for Laravel.",
     "type": "library",
     "license": "MIT",
