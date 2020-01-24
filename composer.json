@@ -1,0 +1,25 @@
+{
+    "name": "coolstudio/auditor",
+    "description": "",
+    "type": "library",
+    "license": "UNLICENSED",
+    "authors": [
+        {
+            "name": "Jamie Wood",
+            "email": "jamie@cool.studio"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "CoolStudio\\Auditor\\": "src/"
+        }
+    },
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "CoolStudio\\Auditor\\AuditorServiceProvider"
+            ]
+        }
+    }
+}
