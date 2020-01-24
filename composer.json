@@ -1,8 +1,9 @@
 {
     "name": "coolstudio/auditor",
-    "description": "",
+    "description": "A model change tracking library for Laravel.",
     "type": "library",
-    "license": "UNLICENSED",
+    "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Jamie Wood",
